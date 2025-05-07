@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning Rust and Solana
 - 💞️ I’m looking to collaborate on blockchain tech
-- 📫 How to reach me @ericklind on twitter
+- 📫 How to reach me? @ericklind on twitter
 
 More to come....
 

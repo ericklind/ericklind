@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ericklind
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning Rust and Solana
-- 💞️ I’m looking to collaborate on blockchain tech
-- 📫 How to reach me? @ericklind on twitter
+- 👀 I’m interested in AI development
+- 🌱 I’m currently learning Svelte and Solana
+- 💞️ I like makine stuff that's useful
+- 📫 How to reach me? @ericklind on instagram
 
 More to come....
 
